@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: Z:\Documents\OhmTechProjects\usbThingVOC\USBThingPCB\USBThingPCB.PcbDoc
+RuleKind=Clearance|RuleName=Clearance-xPP-xTP-xTT|Scope=Board|Minimum=6.00
+RuleKind=Width|RuleName=Width-xTW|Scope=Board|Minimum=6.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=0.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=MinimumAnnularRing|RuleName=Minimum IAR  >0.45mm|Scope=Board|Minimum=6.89
+RuleKind=MinimumAnnularRing|RuleName=Minimum IAR <=0.45mm|Scope=Board|Minimum=6.89

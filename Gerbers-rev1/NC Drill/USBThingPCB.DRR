@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: USBThingPCB.PcbDoc   10/12/2018  15:18:19
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : USBThingPCB-RoundHoles.TXT
+ASCII SlotHoles File : USBThingPCB-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      10mil (0.254mm)                                           Round             43        PTH        4.06inch (103.23mm)
+T2      13mil (0.33mm)                                            Round             5         PTH        0.62inch (15.72mm)
+T3      39mil (1mm)                                               Round             4         PTH        0.28inch (7.00mm)
+T4      39mil (1mm)                                               Slot              2         PTH        1.04inch (26.50mm)
+T5      51mil (1.3mm)                                             Round             2         NPTH       0.18inch (4.60mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              56
+
+Total Processing Time (hh:mm:ss) : 00:00:00

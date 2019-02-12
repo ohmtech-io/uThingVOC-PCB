@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: Z:\Documents\OhmTechProjects\usbThingVOC\USBThingPCB\USBThingPCB.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=usbthingpcb-roundholes.txt|DrillLayers=gtl,g2,g3,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=usbthingpcb-slotholes.txt|DrillLayers=gtl,g2,g3,gbl

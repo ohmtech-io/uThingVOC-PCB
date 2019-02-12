@@ -1,0 +1,27 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+C1         CAP_0603/1608         1053mil         80mil       1053mil         80mil   1079.575mil         80mil  T        180.00 Cap0603        
+C2         CAP_0603/1608          516mil        108mil        516mil        108mil        516mil     81.425mil  T         90.00 X7R            
+C3         CAP_0603/1608          303mil        212mil        303mil        212mil    276.425mil        212mil  T        360.00 Cap0603        
+C4         CAP_0603/1608          280mil        105mil        280mil        105mil        280mil     78.425mil  T         90.00 X7R            
+C5         CAP_0603/1608          695mil        543mil        695mil        543mil    668.425mil        543mil  T          0.00 Cap0603        
+C6         CAP_0603/1608          810mil        374mil        810mil        374mil        810mil    347.425mil  T         90.00 Cap0603        
+C7         CAP_0603/1608          865mil        374mil        865mil        374mil        865mil    347.425mil  T         90.00 X7R            
+C8         CAP_0603/1608          501mil        539mil        501mil        539mil    527.575mil        539mil  T        180.00 Cap0603        
+C9         CAP_0603/1608          397mil        230mil        397mil        230mil        397mil    256.575mil  T        270.00 Cap0603        
+C10        CAP_0603/1608          732mil        142mil        732mil        142mil    705.425mil        142mil  T        360.00 Cap0603        
+C11        CAP_0603/1608          382mil        511mil        382mil        511mil        382mil    484.425mil  T         90.00 Cap0603        
+D1         SOT23-6L               314mil        339mil        314mil        339mil    276.598mil    291.756mil  T         90.00 ESDA6V1BC6     
+L1         IND0603                807mil        521mil        807mil        521mil        807mil    552.496mil  T        270.00 Ferrite        
+LD1        LED0603           1077.052mil    510.956mil       1069mil        516mil   1110.517mil    510.956mil  T        180.00 Red            
+LD2        LED0603           1078.052mil    429.956mil       1070mil        435mil   1111.517mil    429.956mil  T        180.00 Blue           
+P1         USB-A-plug         150.905mil        315mil        145mil        315mil    192.244mil    177.205mil  T        270.00 USB-A-Plug     
+R1         RES_0603/1608          627mil        137mil        627mil        137mil    601.409mil        137mil  T        360.00 Res0603, 0.1W  
+R2         RES_0603/1608          939mil        520mil        939mil        520mil    913.409mil        520mil  T        360.00 Res0603, 0.1W  
+R3         RES_0603/1608          939mil        466mil        939mil        466mil    913.409mil        466mil  T        360.00 Res0603, 0.1W  
+R4         RES_0603/1608          885mil        180mil        885mil        180mil    859.409mil        180mil  T          0.00 Res0603, 0.1W  
+R5         RES_0603/1608      885.315mil        235mil    885.315mil        235mil    859.724mil        235mil  T          0.00 Res0603, 0.1W  
+U1         SOT-23-5               400mil        105mil        400mil        105mil    349.803mil    142.402mil  T          0.00 MIC5504-3V3    
+U2         UFQFPN48-2             610mil        345mil        610mil        345mil    748.779mil    236.732mil  T        180.00 STM32F072C8U6  
+U13        BME680                1070mil        190mil       1070mil        190mil   1022.756mil    237.244mil  T          0.00 BME680         
+

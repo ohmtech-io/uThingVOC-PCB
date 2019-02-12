@@ -1,0 +1,326 @@
+*************************************************************
+FileName = USBThingPCB.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : USBThingPCB.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+*************************************************************
+
+*************************************************************
+Generating : Layer 2 - GND
+      File : USBThingPCB.G1
+
+    Adding Layer      : Layer 2 - GND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D23
+    D29
+    D30
+    D32
+    D33
+*************************************************************
+
+*************************************************************
+Generating : Layer 3 - PWR
+      File : USBThingPCB.G2
+
+    Adding Layer      : Layer 3 - PWR
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D22
+    D33
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : USBThingPCB.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D22
+    D23
+    D29
+    D30
+    D31
+    D32
+    D33
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : USBThingPCB.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D29
+    D30
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : USBThingPCB.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D29
+    D30
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : USBThingPCB.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D22
+    D23
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : USBThingPCB.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D42
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : USBThingPCB.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D29
+    D30
+    D31
+    D32
+    D43
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : USBThingPCB.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D29
+    D30
+    D31
+    D44
+    D45
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : USBThingPCB.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : USBThingPCB.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D23
+    D24
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : USBThingPCB.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : USBThingPCB.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D23
+    D24
+    D46
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 5
+      File : USBThingPCB.GM5
+
+    Adding Layer      : Mechanical 5
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 7
+      File : USBThingPCB.GM7
+
+    Adding Layer      : Mechanical 7
+
+
+Used DCodes :
+    D46
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : USBThingPCB.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D37
+    D46
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : USBThingPCB.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D37
+    D46
+    D47
+*************************************************************
+
